@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset version="22">
+    <!-- first font is default -->
+    <family name="sans-serif">
+        <font weight="100" style="normal">DejaVuSans-ExtraLight.ttf</font>
+        <font weight="400" style="normal">NotoSans-Regular.ttf</font>
+        <font weight="400" style="italic">NotoSans-Italic.ttf</font>
+        <font weight="700" style="normal">NotoSans-Bold.ttf</font>
+        <font weight="700" style="italic">NotoSans-BoldItalic.ttf</font>
+    </family>
+
+    <family name="sans-serif-condensed">
+        <font weight="400" style="normal">DejaVuSansCondensed.ttf</font>
+        <font weight="400" style="italic">DejaVuSansCondensed-Oblique.ttf</font>
+        <font weight="700" style="normal">DejaVuSansCondensed-Bold.ttf</font>
+        <font weight="700" style="italic">DejaVuSansCondensed-BoldOblique.ttf</font>
+    </family>
+
+    <family name="serif">
+        <font weight="400" style="normal">NotoSerif-Regular.ttf</font>
+        <font weight="700" style="normal">NotoSerif-Bold.ttf</font>
+        <font weight="400" style="italic">NotoSerif-Italic.ttf</font>
+        <font weight="700" style="italic">NotoSerif-BoldItalic.ttf</font>
+    </family>
+
+    <family name="monospace">
+        <font weight="400" style="normal">DejaVuSansMono.ttf</font>
+        <font weight="700" style="normal">DejaVuSansMono-Bold.ttf</font>
+        <font weight="400" style="italic">DejaVuSansMono-Oblique.ttf</font>
+        <font weight="700" style="italic">DejaVuSansMono-BoldOblique.ttf</font>
+    </family>
+
+</familyset>
